@@ -1,1 +1,1 @@
-Just copy/paste using the 'bulk add choices' tool. Put this together due to a bug in the current release that breaks the code snippets from the official docs that add country code values.
+A full list of all country names w/ their ISO two letter country codes I put together for use in a Gravity Forms dropdown field. Put this together due to a bug in the current release that breaks the code snippets from the official docs that add country code values. Just copy/paste using the 'bulk add choices' tool.
